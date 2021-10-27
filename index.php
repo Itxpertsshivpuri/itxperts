@@ -730,7 +730,7 @@ if(isset($_POST['submit'])){
           </div>
         </div>
         <div class="col-lg-5 align-self-center">
-          <form id="contact" action="" method="get">
+          <form id="contact" action="index.php" method="post">
             <div class="row">
               <div class="col-lg-12">
                 <fieldset>
