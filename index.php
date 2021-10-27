@@ -73,8 +73,8 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
-              <img src="assets/images/logo.png" height="90px" width="90px">
+            <a href="index.php" class="logo">
+              <img src="assets/images/logo.png" height="90px" width="90px" alt="Itxperts Logo">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
