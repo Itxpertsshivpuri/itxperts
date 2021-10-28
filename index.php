@@ -135,7 +135,7 @@
                       <a href="#contact">Message Us Now</a>
                     </div>
                     <div class="call-button">
-                      <a href="918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
+                      <a href="tel://918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
                     </div>
                   </div>
                 </div>
@@ -148,7 +148,7 @@
                       <a href="#services">Our Services</a>
                     </div>
                     <div class="call-button">
-                      <a href="918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
+                      <a href="tel://918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
                     </div>
                   </div>
                 </div>
@@ -161,7 +161,7 @@
                       <a href="#services">Our Services</a>
                     </div>
                     <div class="call-button">
-                     <a href="918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
+                     <a href="tel://918966968576"><i class="fa fa-phone"></i> +91 8966968576</a>
                   
                     </div>
                   </div>
@@ -724,8 +724,8 @@ if(isset($_POST['submit'])){
 
             </div>
             <div class="info">
-              <span><i class="fa fa-phone"></i> <a href="+918871873164">+91 8871873164<br>+91 8966968576</a></span>
-              <span><i class="fa fa-envelope"></i> <a href="itxpertsshivpuri@gmail.com">info@itxperts<br>itxpertsshivpuri@gmail.com</a></span>
+              <span><i class="fa fa-phone"></i> <a href="tel://918871873164">+91 8871873164<br>+91 8966968576</a></span>
+              <span><i class="fa fa-envelope"></i> <a href="mailto://itxpertsshivpuri@gmail.com">info@itxperts<br>itxpertsshivpuri@gmail.com</a></span>
             </div>
           </div>
         </div>
