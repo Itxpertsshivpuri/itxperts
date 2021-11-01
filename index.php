@@ -46,7 +46,15 @@
     <meta name="theme-color" content="#ffffff">
 
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZK10SN3PTM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-ZK10SN3PTM');
+</script>
 
 
 
