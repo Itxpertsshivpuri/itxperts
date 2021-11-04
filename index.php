@@ -541,23 +541,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 
-  <div id="subscribe" class="subscribe">
+  <div id="subscribe" class="subscribe" >
     <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="inner-content">
-            <div class="row">
-              <div class="col-lg-10 offset-lg-1">
-                <h2>Get in touch</h2>
-                <form id="subscribe" action="" method="get">
-                  <p>We pride ourselves to be the only customer-focused quality-driven digital marketing company that can support all of your digital needs.</p>
-                  <button type="submit" id="form-submit" class="main-button ">Subscribe</button>
-                </form>
-              </div>
+        <div class="row" style="border:1px solid red;border-radius:50px;background-image: url(assets/images/portfolio-left-dec.png);background-repeat:no-repeat ;">
+                <div class="col-lg-9  text-center text-lg-left">
+                    <h3>Get in touch</h3>
+                    <p> We pride ourselves to be the only customer-focused quality-driven digital marketing company that can support all of your digital needs. </p>
+                </div>
+                <div class="col-lg-3 text-center main-blue-button-hover" style="padding-top:20px;">
+                       <a href="tel://918966968576">Call to Action</a>
+                  </div>
             </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 
