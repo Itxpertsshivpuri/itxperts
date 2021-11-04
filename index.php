@@ -541,6 +541,41 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 
+
+<div id="subscribe" class="subscribe" >
+    <div class="container">
+        <div class="text-center row">
+        <center><h2>INDUSTRIES WE SERVED</h2><hr></center>
+
+            <div class="col-lg-2"><i class="fas fa-building" style="font-size:50px"></i><br>Real Estate</div>
+            <div class="col-lg-2"><i class="fas fa-hospital" style="font-size:50px"></i><br>Hospitals</div>
+            <div class="col-lg-2"><i class="fas fa-share-alt-square" style="font-size:50px"></i><br>Social Media</div>
+            <div class="col-lg-2"><i class="fas fa-shopping-bag" style="font-size:50px"></i><br>Retail</div>
+            <div class="col-lg-2"><i class="fas fa-utensils" style="font-size:50px"></i><br> Restaurant</div>
+            <div class="col-lg-2"><i class="far fa-gem" style="font-size:50px"></i><br>Jewelry</div>
+        </div>
+        <br>
+        <div class="text-center row">
+            <div class="col-lg-2"><i class="fas fa-solar-panel" style="font-size:50px"></i><br>Solar</div>
+            <div class="col-lg-2"><i class="fas fa-industry" style="font-size:50px"></i><br>Manufacture</div>
+            <div class="col-lg-2"><i class="fas fa-donate" style="font-size:50px"></i><br>Finance</div>
+            <div class="col-lg-2"><i class="fas fa-graduation-cap" style="font-size:50px"></i><br>Education</div>
+            <div class="col-lg-2"><i class="fas fa-cart-plus" style="font-size:50px"></i><br>E-commerce</div>
+            <div class="col-lg-2"><i class="fas fa-car-crash" style="font-size:50px"></i><br>Automobile</div>
+        </div>
+        <hr>
+    </div>
+  </div>
+
+
+
+
+
+
+
+  
+
+
   <div id="subscribe" class="subscribe" >
     <div class="container">
         <div class="row" style="border:0px solid red;border-radius:50px;background-image: url(assets/images/portfolio-left-dec.png);background-repeat:no-repeat ;box-shadow:1px 2px 3px gray;">
