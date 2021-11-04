@@ -548,10 +548,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="inner-content">
             <div class="row">
               <div class="col-lg-10 offset-lg-1">
-                <h2>Know Your Website SEO Score by Email</h2>
+                <h2>Get in touch</h2>
                 <form id="subscribe" action="" method="get">
-                  <input type="text" name="website" id="website" placeholder="Your Website URL" required="">
-                  <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your Email" required="">
+                  <p>We pride ourselves to be the only customer-focused quality-driven digital marketing company that can support all of your digital needs.</p>
                   <button type="submit" id="form-submit" class="main-button ">Subscribe</button>
                 </form>
               </div>
