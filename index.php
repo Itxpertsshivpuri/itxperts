@@ -543,7 +543,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <div id="subscribe" class="subscribe" >
     <div class="container">
-        <div class="row" style="border:1px solid red;border-radius:50px;background-image: url(assets/images/portfolio-left-dec.png);background-repeat:no-repeat ;">
+        <div class="row" style="border:0px solid red;border-radius:50px;background-image: url(assets/images/portfolio-left-dec.png);background-repeat:no-repeat ;box-shadow:1px 2px 3px gray;">
                 <div class="col-lg-9  text-center text-lg-left">
                     <h3>Get in touch</h3>
                     <p> We pride ourselves to be the only customer-focused quality-driven digital marketing company that can support all of your digital needs. </p>
