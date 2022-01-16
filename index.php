@@ -81,8 +81,12 @@
             <a href="index.php" class="logo">
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
+             <a href="#" class="logo">
+              <img src="wh.png" height="20px" width="20px" alt="Itxperts Logo">
+            </a>
             
-            <i class="logo"><span class="fa">&#xf232;</span></i>
+         
+            
             
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
