@@ -46,62 +46,7 @@
     <meta name="msapplication-TileImage" content="assets/images/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
-     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-    <style>
-      .mode {
-
-            float:right;
-
-        }
-
-        .change {
-
-            cursor: pointer;
-
-            border: 1px solid #555;
-
-            border-radius: 40%;
-
-            width: 20px;
-
-            text-align: center;
-
-            padding: 5px;
-
-            margin-left: 8px;
-
-        }
-
-        .dark{
-
-            background-color: #222;
-
-            color: #e6e6e6;
-      }
-      
-    </style>
-    <script>
-
-        $( ".change" ).on("click", function() {
-
-            if( $( "body" ).hasClass( "dark" )) {
-
-                $( "body" ).removeClass( "dark" );
-
-                $( ".change" ).text( "OFF" );
-
-            } else {
-
-                $( "body" ).addClass( "dark" );
-
-                $( ".change" ).text( "ON" );
-
-            }
-
-        });
-
-    </script>
-
+   
 
   </head>
 
@@ -142,8 +87,7 @@
             <a href="tel://918966968576" class="logo" style="padding:0px;">
               <img src="telephone.png" height="35px" width="35px" alt="Itxperts Logo">
             </a>
-             <div class="mode">Dark mode:<span class="change">OFF</span></div>
-            
+             
          
             
             
