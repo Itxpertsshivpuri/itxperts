@@ -81,11 +81,11 @@
             <a href="index.php" class="logo">
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
-             <a href="#" class="logo">
+             <a href="https://wa.me/918966968576" class="logo">
               <img src="wh.png" height="50px" width="50px" alt="Itxperts Logo">
             </a>
-            <a href="#" class="logo">
-              <img src="telephone.png" height="30px" width="30px" alt="Itxperts Logo">
+            <a href="tel://918966968576" class="logo">
+              <img src="telephone.png" height="35px" width="35px" alt="Itxperts Logo">
             </a>
             
          
