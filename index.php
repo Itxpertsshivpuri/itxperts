@@ -110,14 +110,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-  <!-- ***** Preloader Start ***** -->
+  <!-- ***** Preloader Start ***** 
   <div id="js-preloader" class="js-preloader">
     <div class="d-flex justify-content-center">
       <span class="spinner-border"></span>
     </div>
     </div>
   </div>
-  
+  -->
 
 
 
@@ -133,7 +133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.php" class="logo">
-              <img src="assets/images/logo.png" height="90px" width="90px" alt="Itxperts Logo">
+              <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
