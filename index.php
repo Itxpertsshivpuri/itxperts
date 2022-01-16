@@ -82,7 +82,7 @@
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
             
-            <a class="logo"><span class="fa">&#xf232;</span></a>
+            <i class="logo"><span class="fa">&#xf232;</span></i>
             
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
