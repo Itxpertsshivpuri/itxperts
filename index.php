@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
             
-            <i class="logo"><spam class="fa fa-facebook"></span></i>
+            <a class="logo"><spam class="fa fa-facebook"></span></a>
             
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
