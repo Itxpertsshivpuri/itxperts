@@ -20,6 +20,7 @@
     <title>Itxperts is a No 1 Website Designning Company in Shivpuri Madhya Pradesh,No 1 Website Designning Company in Gwalior Madhya Pradesh</title>
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
     <link rel="stylesheet" href="assets/css/templatemo-onix-digital.css">
@@ -136,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
             
-            <a class="logo"><spam>+918871873164</span></a>
+            <a class="logo"><i class="fa fa-whatsapp" style="font-size:24px;color:red"></i></a>
             
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
