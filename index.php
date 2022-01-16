@@ -137,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
             
-            <a class="logo"><i class="fa fa-whatsapp" style="font-size:24px;color:red"></i></a>
+            <a class="logo"><i style="font-size:24px" class="fa">&#xf232;</i></a>
             
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
