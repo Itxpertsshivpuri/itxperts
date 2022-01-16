@@ -135,6 +135,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <a href="index.php" class="logo">
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
+            
+             <i class="fa fa-facebook"></i>
+            
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
@@ -167,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
               </li> 
             </ul>        
-            <i class="fa fa-facebook"></i>
+           
                        
             <a class='menu-trigger'>
                 <span>Menu</span>
