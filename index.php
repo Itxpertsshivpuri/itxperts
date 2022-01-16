@@ -84,6 +84,9 @@
              <a href="#" class="logo" style="padding-left:20px;">
               <img src="wh.png" height="40px" width="40px" alt="Itxperts Logo">
             </a>
+            <a href="#" class="logo" style="padding-left:5px;">
+              <img src="telephone.png" height="40px" width="40px" alt="Itxperts Logo">
+            </a>
             
          
             
