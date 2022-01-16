@@ -81,7 +81,7 @@
             <a href="index.php" class="logo">
               <img src="assets/images/logo.png" height="80px" width="80px" alt="Itxperts Logo">
             </a>
-             <a href="#" class="logo" style="padding-left:20px;">
+             <a href="#" class="logo">
               <img src="wh.png" height="50px" width="50px" alt="Itxperts Logo">
             </a>
             <a href="#" class="logo">
