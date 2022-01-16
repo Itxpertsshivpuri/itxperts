@@ -167,6 +167,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
               </li> 
             </ul>        
+            <i class="fa fa-facebook"></i>
+                       
             <a class='menu-trigger'>
                 <span>Menu</span>
             </a>
